@@ -3,7 +3,7 @@
 Personal portfolio website deployed on AWS EC2 with nginx.
 
 ## Live Demo
-**http://13.57.236.83**
+**[http://13.57.236.83](https://zeroes-nd-ones.github.io/aws-portfolio-deployment/)**
 
 ## Architecture
 ```
