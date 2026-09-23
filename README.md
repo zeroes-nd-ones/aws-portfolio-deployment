@@ -64,9 +64,3 @@ sudo cp /home/ubuntu/index.html /var/www/html/
 - Cloud deployment workflow
 - AWS CLI usage
 
-## Next Steps (Coming Soon)
-- Dockerize the application
-- Add CI/CD pipeline (GitHub Actions)
-- Provision infrastructure with Terraform
-- Add HTTPS with Let's Encrypt
-- Deploy to Kubernetes
